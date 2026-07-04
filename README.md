@@ -4,7 +4,7 @@
 
 [![Platform: Windows](https://img.shields.io/badge/platform-Windows-blue)]
 
-> **ダウンロード**: Steam / DLSite（準備中）
+> **ダウンロード**: Steam（準備中）
 
 ---
 
@@ -17,6 +17,7 @@
 | [ワールド作成とGMのしくみ](./gm-and-creation.md) | ワールド・キャンペーン・セッションの作り方、セッション強度・シナリオシードなど GM のしくみ |
 | [プレイ操作と設定](./operations.md) | プレイ画面の操作、世界線分岐、リプレイ出力、設定画面、一括初期化 |
 | [ライセンス / クレジット](./notices.md) | OSS・素材・フォントのライセンスと AI 利用通知 |
+| [リリース状況・更新履歴](./release-status.md) | 配信状況（Steam 準備中）・リリース予定・バージョンごとの更新内容 |
 
 ---
 
