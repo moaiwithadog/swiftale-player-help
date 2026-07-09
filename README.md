@@ -19,6 +19,7 @@
 | [プレイ操作と設定](./operations.md) | プレイ画面の操作、世界線分岐、リプレイ出力、設定画面、一括初期化 |
 | [ライセンス / クレジット](./notices.md) | OSS・素材・フォントのライセンスと AI 利用通知 |
 | [リリース状況・更新履歴](./release-status.md) | 配信状況（BOOTH 先行無料体験版 / Steam 近日登場）・リリース予定・バージョンごとの更新内容 |
+| [既知の不具合一覧](https://github.com/moaiwithadog/swiftale-player-help/issues) | 現在把握している不具合・制限事項 |
 
 ---
 
