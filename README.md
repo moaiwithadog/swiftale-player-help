@@ -5,6 +5,7 @@
 [![Platform: Windows](https://img.shields.io/badge/platform-Windows-blue)]
 
 > **ダウンロード**: [BOOTH 先行無料体験版（PLモード限定）](https://moaiwithadog.booth.pm/items/8573923) / [Steam ストアページ](https://store.steampowered.com/app/4801500)（近日登場）
+> **開発記録**: [note — SWIFTALE PLAYER 開発記録](https://note.com/moaiwithadog/m/mb055bf531d89)
 
 ---
 
